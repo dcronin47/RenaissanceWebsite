@@ -1,0 +1,59 @@
+.button {
+    width: 100%
+}
+
+#arch {
+    background-color: #252323a4;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
+
+#masc {
+    background-color: #8f1212;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
+
+#femi {
+    background-color: #34629e;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
+
+#wors {
+    background-color: #204719;
+    color: white; 
+    border: 2px solid;
+    border-color: black;
+}
+
+#powe {
+    background-color: #723197;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
+
+#othe {
+    background-color: #ca8e34;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
+
+#inti {
+    background-color: #a879a6;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
+
+#past {
+    background-color: #40b3a9;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+}
