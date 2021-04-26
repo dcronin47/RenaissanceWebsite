@@ -1,59 +1,44 @@
 .button {
-    width: 100%
+    width: 100%;
+    border-radius: 0%;
 }
 
 #arch {
-    background-color: #252323a4;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #ada1a164;
+    color: rgb(56, 56, 56);
 }
 
 #masc {
-    background-color: #8f1212;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #f3737357;
+    color: rgb(177, 0, 0);
 }
 
 #femi {
-    background-color: #34629e;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #8ab3e960;
+    color: rgb(11, 29, 189);
 }
 
 #wors {
-    background-color: #204719;
-    color: white; 
-    border: 2px solid;
-    border-color: black;
+    background-color: #55d33f5b;
+    color: rgb(12, 73, 0); 
 }
 
 #powe {
-    background-color: #723197;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #c783ee5d;
+    color: rgb(81, 0, 187);
 }
 
 #othe {
-    background-color: #ca8e34;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #ecaf535e;
+    color: rgb(121, 68, 0);
 }
 
 #inti {
-    background-color: #a879a6;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #eeb8eb49;
+    color: rgb(122, 0, 106);
 }
 
 #past {
-    background-color: #40b3a9;
-    color: white;
-    border: 2px solid;
-    border-color: black;
+    background-color: #74f0e559;
+    color: rgb(0, 95, 82);
 }

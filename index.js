@@ -7,7 +7,7 @@ function loadButtons() {
             <input class="button" id="masc" value="Masculinity" onclick="location.href='masculinity.html'">
         </div>
         <div content="column">
-            <input class="button" id="femi" value="Femininity" onclick="location.href='Femininity.html'">
+            <input class="button" id="femi" value="Femininity" onclick="location.href='femininity.html'">
         </div>
         <div content="column">
             <input class="button" id="wors" value="Worship" onclick="location.href='worship.html'">
