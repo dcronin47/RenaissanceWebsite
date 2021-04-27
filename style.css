@@ -61,6 +61,6 @@
     margin-right: auto;
 }
 
-body {
+#body {
     background-image: linear-gradient(to right, rgba(255, 172, 255, 0.226), rgba(133, 250, 133, 0.212));
 }
