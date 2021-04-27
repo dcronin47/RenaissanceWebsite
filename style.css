@@ -42,3 +42,17 @@
     background-color: #74f0e559;
     color: rgb(0, 95, 82);
 }
+
+.caption {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
